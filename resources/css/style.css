@@ -147,7 +147,15 @@ nav ul {display: none;
 }
 
 @media only screen and (max-width: 1024px) {
-.product {width: 90%; padding-left: 20px;
+footer {margin-top: 20px;}
+}
+
+@media only screen and (max-width: 1024px) {
+.product {width: 90%; padding-left: 40px;
+}
+
+@media only screen and (max-width: 1024px) {
+.business-info {padding-left: 40px;}
 }
 
 @media only screen and (max-width: 470px) {
