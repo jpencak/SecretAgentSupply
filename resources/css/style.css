@@ -149,7 +149,7 @@ nav ul {display: none;
 .product {width: 47%;
 }
 
-@media only screen and (max-width: 470px) {
+@media only screen and (max-width: 1024px) {
 .product {width: 90%; padding-left: 20px;
 }
 
@@ -198,5 +198,5 @@ footer {text-align: center;}
 }
 
 @media only screen and (max-width: 470px) {
-.company img {padding-left: 185px;}
+.company img {padding-left: 185px;
 }
