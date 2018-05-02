@@ -3,13 +3,11 @@ html {font-size: 18px;
       font-family: san-serif;
       line-height: 1.15;
       text-size-adjust: 100%;
-
 }
 
 body {font-family: Helvetica, san-serif;
       line-height: 1.4em;
       margin: 0px;
-
 }
 
 .company {background-color: black;
@@ -35,7 +33,6 @@ body {font-family: Helvetica, san-serif;
               background-repeat: no-repeat;
               background-position: center;
               background-size: cover;
-
 }
 
 .headline {background-color: black;
